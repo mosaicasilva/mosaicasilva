@@ -1,3 +1,3 @@
-<img src = "bannercat.gif" width = "400px">
+<img src = "bannercat.gif" width = "700px" align = "right">
 
-# Seja bem vindo ao meu GitHub! É bom ter você aqui.
+# ❤ Olá, bom ter você aqui!
