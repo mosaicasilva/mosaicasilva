@@ -1,3 +1,3 @@
-<img src = "bannercat.gif" width = "700px" align = "right">
+<img src = "bannercat.gif" width = "550px">
 
 # ❤ Olá, bom ter você aqui!
